@@ -105,6 +105,20 @@ Next Steps:
 - Web design resources – usability heuristics, accessibility best practices
 - Internal project documentation: audience insights (teens & families)
 
+  9. SREENSHOTS
+      <img width="1884" height="921" alt="image" src="https://github.com/user-attachments/assets/409d8ad7-3d5b-4805-9431-9902d70430b7" />
+      <img width="1859" height="1141" alt="image" src="https://github.com/user-attachments/assets/d384c751-2ff7-4e59-807a-701be0058407" />
+      <img width="1870" height="1143" alt="image" src="https://github.com/user-attachments/assets/a566bb80-21b5-4a1d-addb-90ab0b1e3c03" />
+      <img width="1888" height="922" alt="image" src="https://github.com/user-attachments/assets/4c6d339c-7fc6-40fb-80ea-e637549738c9" />
+      <img width="1848" height="899" alt="image" src="https://github.com/user-attachments/assets/b7f1be0b-5fc7-41d5-980e-22d06d2a8c0e" />
+      <img width="1880" height="1515" alt="image" src="https://github.com/user-attachments/assets/1207416a-e60a-430f-b314-041da31472d2" />
+
+
+
+
+
+
+
 README SUMMARY
 ===============
 Project name: Coca-Cola Brand Experience Website (Redesign / Refresh)
